@@ -1,0 +1,8 @@
+{
+  "pages": {
+    "/": {
+      "viewPath": "ParseFile"
+    }
+  },
+  "sharedDocks": {}
+}
